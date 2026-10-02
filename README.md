@@ -95,7 +95,7 @@ The project uses separate components for movement, combat, targeting, health, in
 Dragon models, animations, and environment assets were obtained from the **Unity Asset Store**.
 
 Source:
-- Unity Asset Store: https://assetstore.unity.com/
+- Unity Asset Store: [https://assetstore.unity.com/](https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-pbr-78923)
 
 Specific package names and package links can be added here if required by the evaluator.
 
